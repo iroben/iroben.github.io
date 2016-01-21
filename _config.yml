@@ -7,15 +7,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 刘斌的博客
+  name: roben的博客
   email: iroben@163.com
   link: http://liubin.im
   weibo: http://weibo.com/u/2590456590
   github: http://github.com/iroben
 
 # 站点信息
-title: 刘斌的博客 
-description: 刘斌的博客
+title: roben的博客 
+description: roben的博客
 url: http://liubin.im
 rss_url: /pages/atom.xml
 

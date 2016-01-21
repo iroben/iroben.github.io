@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Welcome
+title: roben的博客
 ---
 
-## 博客平台
+## 个人简介
 
-本博客通过 [Jekyll](http://jekyllrb.com/) 生成，感谢[Jekyll](http://jekyllrb.com/)，[Peiwen Lu](https://github.com/P233)，[yansu](http://yansu.org/index.html)
+性别男，爱好女 
 
+/\*擅长装逼，精通各种装逼技巧。*/
 
+擅长`PHP`+`MYSQL`，`JavaScript`，不擅长`HTML`+`CSS`，喜欢研究各种开源框架源码
 
+博客主要记录一些工作中遇到的问题和解决办法，以作备忘和供以后有人遇到类似问题作参考。
