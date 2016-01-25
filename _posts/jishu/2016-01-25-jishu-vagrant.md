@@ -33,7 +33,7 @@ vagrant up
 ```
 启动完成后执行`vagrant ssh`用shell连接Linux虚拟机，接下来就可以在虚拟机做你该做的事了
 
-vagrant常用命令
+`vagrant`常用命令
 
 ```shell
 vagrant init		初始化vagrant file
