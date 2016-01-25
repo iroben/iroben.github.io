@@ -2,6 +2,7 @@
 layout: post
 title: vagrant搭建laravel开发环境
 category: 技术
+keywords: vagrant搭建laravel开发环境
 ---
 
 今年因为学习`laravel `了解到了`vagrant`，可以用`vagrant`和`virtualbox`搭建开发环境，这种方式非常好
