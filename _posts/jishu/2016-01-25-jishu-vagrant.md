@@ -1,7 +1,7 @@
 ---
 layout: post
 title: vagrant搭建laravel开发环境
-category: 技术
+category: PHP
 keywords: vagrant搭建laravel开发环境
 ---
 
