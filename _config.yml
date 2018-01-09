@@ -9,14 +9,14 @@ kramdown:
 author: 
   name: BB的博客
   email: iroben@163.com
-  link: http://liubin.im
+  link: http://liuzijin.cn
   weibo: http://weibo.com/u/2590456590
   github: http://github.com/iroben
 
 # 站点信息
-title: roben的博客 
-description: roben的博客
-url: http://liubin.im
+title: BB的博客 
+description: BB的博客
+url: http://liuzijin.cn
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -26,7 +26,7 @@ favicon: https://avatars0.githubusercontent.com/u/2619250?v=3&u=d1ff24a9866d1908
 # google analytics 设置
 ga:
   id: UA-72704745-1
-  url: liubin.im
+  url: liuzijin.cn
 
 # disqus 设置
 disqus:
