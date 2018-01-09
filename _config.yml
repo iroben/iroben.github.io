@@ -7,7 +7,7 @@ kramdown:
 
 # 作者信息
 author: 
-  name: roben的博客
+  name: BB的博客
   email: iroben@163.com
   link: http://liubin.im
   weibo: http://weibo.com/u/2590456590
@@ -30,4 +30,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: iroben
+  shortname: BB
